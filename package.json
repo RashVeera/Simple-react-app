@@ -1,0 +1,19 @@
+{
+  "name": "simple-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashVeera/Simple-react-app.git"
+  },
+  "author": "Rashika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashVeera/Simple-react-app/issues"
+  },
+  "homepage": "https://github.com/RashVeera/Simple-react-app#readme"
+}
